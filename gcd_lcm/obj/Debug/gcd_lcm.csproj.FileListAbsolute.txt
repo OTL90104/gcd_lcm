@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\gcd_lcm\gcd_lcm\bin\Debug\gcd_lcm.exe.config
+C:\Users\USER\source\repos\gcd_lcm\gcd_lcm\bin\Debug\gcd_lcm.exe
+C:\Users\USER\source\repos\gcd_lcm\gcd_lcm\bin\Debug\gcd_lcm.pdb
+C:\Users\USER\source\repos\gcd_lcm\gcd_lcm\obj\Debug\gcd_lcm.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\gcd_lcm\gcd_lcm\obj\Debug\gcd_lcm.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\gcd_lcm\gcd_lcm\obj\Debug\gcd_lcm.exe
+C:\Users\USER\source\repos\gcd_lcm\gcd_lcm\obj\Debug\gcd_lcm.pdb
